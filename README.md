@@ -90,3 +90,16 @@ This project focuses on delivering a feature-rich Android application that ident
 ### Android:
 
 Android is a mobile operating system based on a modified version of the Linux kernel and other open-source software, designed primarily for touchscreen mobile devices such as smartphones and tablets.
+
+
+
+
+
+
+<img width="468" alt="Picture4" src="https://github.com/Blackheadbeast/PowerTracker/assets/96144118/37abcba0-b037-49ae-8ddc-4e788a7e3425">
+
+<img width="468" alt="Picture3" src="https://github.com/Blackheadbeast/PowerTracker/assets/96144118/75191345-5127-42de-8edd-ba8cfe6b5ae7">
+
+<img width="468" alt="Picture2" src="https://github.com/Blackheadbeast/PowerTracker/assets/96144118/239f7e2e-2e7a-48e4-a649-f74c4699c23e">
+
+<img width="468" alt="Picture1" src="https://github.com/Blackheadbeast/PowerTracker/assets/96144118/ccab8e09-6960-4807-b482-4ac28f4bb5ef">
