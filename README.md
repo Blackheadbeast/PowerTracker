@@ -103,3 +103,37 @@ Android is a mobile operating system based on a modified version of the Linux ke
 <img width="468" alt="Picture2" src="https://github.com/Blackheadbeast/PowerTracker/assets/96144118/239f7e2e-2e7a-48e4-a649-f74c4699c23e">
 
 <img width="468" alt="Picture1" src="https://github.com/Blackheadbeast/PowerTracker/assets/96144118/ccab8e09-6960-4807-b482-4ac28f4bb5ef">
+
+
+
+
+### How to Download the Android App using QR Code
+
+1. **Scan the QR Code:**
+   - Use your mobile device's camera or a QR code scanning app to scan the QR code provided below.
+
+   ![frame](https://github.com/Blackheadbeast/PowerTracker/assets/96144118/47c09f3f-ed2b-4a6a-ba50-3f297718ad59)
+
+2. **Access Samsung Sharing Page:**
+   - After scanning the QR code, you will be redirected to the Samsung sharing page for the Android app.
+
+3. **Download the APK File:**
+   - On the Samsung sharing page, locate the download button or link for the APK file.
+
+4. **Grant Necessary Permissions:**
+   - If prompted, ensure that your device allows installations from unknown sources. You can adjust this setting in your device's security or privacy settings.
+
+5. **Install the App:**
+   - Once the APK file is downloaded, open the file to initiate the installation process.
+
+6. **Follow Installation Instructions:**
+   - Follow the on-screen instructions to complete the installation of the Android app.
+
+7. **Enjoy the App:**
+   - Once installed, launch the app and enjoy its features! Feel free to provide feedback or report any issues on the GitHub repository.
+
+### Note:
+- Ensure your device allows installations from unknown sources to install the app successfully.
+- If you encounter any issues or have questions, please refer to the repository's issue section for support.
+
+Thank you for using our Android app! If you have any feedback or suggestions, we'd love to hear from you. Feel free to contribute to the project on GitHub.
