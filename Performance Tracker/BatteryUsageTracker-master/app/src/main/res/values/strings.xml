@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Power Tracker</string>
+
+    <string name="open_app_usage_setting">Open Apps with usage access settings</string>
+    <string name="last_time_used">"Last time used: "</string>
+    <string name="time_span">"Time span: "</string>
+
+    <string name="display_order_text">Sort by:</string>
+    <string name="app_name_label">App</string>
+    <string name="last_time_used_label">Last time used</string>
+    <!-- label for usage time -->
+    <string name="usage_time_label">Usage time</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sample_app_icon_image">Sample App Icon Image</string>
+    <string name="time_usage">Time Usage</string>
+</resources>
